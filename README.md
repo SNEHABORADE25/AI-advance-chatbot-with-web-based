@@ -1,4 +1,10 @@
 # AI-advance-chatbot-with-web-based
+
+Output :
+
+<img width="1920" height="972" alt="image" src="https://github.com/user-attachments/assets/d3082ee4-81aa-4165-8278-05f314fd9eb7" />
+
+
 🌐 AI Advanced Web-based Chatbot is a smart conversational assistant built with NLP and deep learning. It runs on a web interface, supports real-time responses, and can be extended with voice, multilingual chats, and integrations. Ideal for customer support, education, and personal assistants.
 
 🌐 AI Advanced Web-based Chatbot
